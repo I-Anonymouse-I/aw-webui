@@ -233,6 +233,8 @@ const browser_appnames = {
 
     // Brave (should this be merged with the brave entry?)
     'Brave-browser',
+    'Brave Browser',
+    'Brave browser',
   ],
   firefox: [
     // Firefox
